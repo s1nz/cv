@@ -54,7 +54,7 @@ export default function Home() {
               <li className="mb-2">Development and maintenance of front-end web applications, ecommerce websites, hybrid apps, and a product listing website for the largest retail company in Switzerland</li>
               <li className="mb-2">Streamlined the process of updating information in the app from weeks to hours, significantly improving efficiency and user experience, reducing costs and time to deploying new content.</li>
               <li className="mb-2">Collaborated closely with UX teams to design and implement user-friendly and accessible websites</li>
-              <li className="mb-2">Played a key role in simplifying the overall process and enhancing the brand's digital presence.</li>
+              <li className="mb-2">Played a key role in simplifying the overall process and enhancing the brand&apos;s digital presence.</li>
             </ul>
           </article>
           <article>
